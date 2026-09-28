@@ -1,0 +1,6 @@
+{
+  "name": "StrategicPulse",
+  "description": "Persistent-Memory Competitive Intelligence Agent powered by Hindsight to detect strategic patterns across historical competitor events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
